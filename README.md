@@ -7,7 +7,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Tecnologias+que+eu+uso+no+meu+dia.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=30A746&width=435&lines=Minhas+habilidades)](https://git.io/typing-svg)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Back-End:)](https://git.io/typing-svg)
