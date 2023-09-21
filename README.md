@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Matheus+Ferreira.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Ivan+Junior.)](https://git.io/typing-svg)
 
 [![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ferreira-5861911b5/)
 
