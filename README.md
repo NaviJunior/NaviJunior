@@ -1,10 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=001D5D&width=435&lines=Ol%C3%A1%2C+sou+Ivan+Junior)](https://git.io/typing-svg)
-
-[![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ferreira-5861911b5/)
-
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/zMathTH)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A33B1&width=435&lines=Ol%C3%A1%2C+sou+Ivan+Junior)](https://git.io/typing-svg)
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A33B1&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Desenvolvedor+Front-End+em+ascens%C3%A3o)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A33B1&width=435&lines=%F0%9F%92%A1+Futuro+desenvolvedor+FullStack+)](https://git.io/typing-svg)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=30A746&width=435&lines=Minhas+habilidades)](https://git.io/typing-svg)
