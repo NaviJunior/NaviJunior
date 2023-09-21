@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Ivan+Junior.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=30A746&width=435&lines=Ivan+Junior)](https://git.io/typing-svg)
 
 [![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ferreira-5861911b5/)
 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/zMathTH)
 
 
-![MathTH GitHub stats](https://github-readme-stats.vercel.app/api?username=MathTH&show_icons=true&theme=radical)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Tecnologias+que+eu+uso+no+meu+dia.)](https://git.io/typing-svg)
 
