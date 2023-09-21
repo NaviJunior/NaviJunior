@@ -9,13 +9,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=30A746&width=435&lines=Minhas+habilidades)](https://git.io/typing-svg)
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Back-End:)](https://git.io/typing-svg)
-<div style="display: inline_block">
-<img align="center"  alt="html5" src="https://img.shields.io/badge/CSharp-d514e3?style=for-the-badge&logo=csharp&logoColor=white"/> 
-<img align="center"  alt="html5" src="https://img.shields.io/badge/Asp.Net-1374cf?style=for-the-badge&logo=asp.net&logoColor=white"/>
- </div> <br>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Front-End:)](https://git.io/typing-svg)
 <div style="display: inline_block">
 <img align="center"  alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
