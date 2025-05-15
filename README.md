@@ -2,7 +2,7 @@
 
 👨‍💻 Desenvolvedor Front-End em ascensão
 
-📚 Estudante do 3º ano de Sistemas da Informação
+📚 Estudante Sistemas da Informação
 
 💡 Futuro desenvolvedor FullStack em formação
 
